@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
