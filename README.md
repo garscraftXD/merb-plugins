@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Update format.yml to pull_request_target (#7460)
